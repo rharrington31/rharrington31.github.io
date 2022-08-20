@@ -1,0 +1,11 @@
+- name: Public Speaking & Facilitation
+  percentage: 95
+  color: primary
+
+- name: Strategic Planning
+  percentage: 90
+  color: primary
+
+- name: Budgeting & Planning
+  percentage: 85
+  color: primary

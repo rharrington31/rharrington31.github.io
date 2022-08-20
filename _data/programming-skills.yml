@@ -1,0 +1,12 @@
+- name: R
+  percentage: 95
+  color: primary
+
+- name: Statistical Modeling
+  percentage: 90
+  color: primary
+
+- name: Git
+  percentage: 90
+  color: primary
+
